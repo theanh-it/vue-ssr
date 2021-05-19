@@ -1,0 +1,7 @@
+{
+    "production":false,
+    "server":{
+        "port": 5000
+    },
+    "api":"http://rongvietexpress.vn"
+}
